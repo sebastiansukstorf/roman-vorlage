@@ -1,0 +1,20 @@
+# temporäre Dateien
+*.log
+*.aux
+*.out
+*.toc
+*.pdf
+*.docx
+*.tmp
+*.zip
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Python (falls du Tools nutzt)
+__pycache__/
+*.pyc
