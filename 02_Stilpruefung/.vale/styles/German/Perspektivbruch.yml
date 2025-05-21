@@ -1,0 +1,8 @@
+extends: existence
+message: "Erzählperspektive inkonsistent: '%s'"
+level: error
+ignorecase: true
+tokens:
+  - der Autor
+  - wir werden sehen
+  - ich als Erzähler

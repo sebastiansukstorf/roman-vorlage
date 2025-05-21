@@ -1,0 +1,8 @@
+extends: existence
+message: "Gewaltbetonter Ausdruck: '%s'"
+level: warning
+ignorecase: true
+tokens:
+  - in Stücke reißen
+  - abschlachten
+  - zerschmettern

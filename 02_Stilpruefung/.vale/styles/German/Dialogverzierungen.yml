@@ -1,0 +1,8 @@
+extends: existence
+message: "Überladene Dialogbeschreibung: '%s'"
+level: suggestion
+ignorecase: true
+tokens:
+  - hauchte sie leise
+  - schrie er wütend
+  - murmelte sie kaum hörbar

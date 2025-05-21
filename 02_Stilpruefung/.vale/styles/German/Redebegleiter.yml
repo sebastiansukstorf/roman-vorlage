@@ -1,0 +1,7 @@
+extends: existence
+message: "Unnötiger Redebegleitsatz: '%s'"
+level: suggestion
+ignorecase: true
+tokens:
+  - sagte er mit einem Lächeln
+  - meinte sie beiläufig

@@ -1,0 +1,7 @@
+extends: existence
+message: "Erzähltempo verlangsamt durch: '%s'"
+level: warning
+ignorecase: true
+tokens:
+  - Es dauerte eine ganze Weile
+  - Langsam und bedächtig
